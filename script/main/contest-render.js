@@ -24,8 +24,9 @@ contestArr.forEach(item => {
   li.className = "swiper-slide"; // contest-grid로 하면 될꺼임
 
   const card = document.createElement("contest-card");
-
+  const src = `/pages/contest/contest-detail.html?id=${item.id}`;
   // JS
+  card.setAttribute("contestSrc", src);
   card.setAttribute("dday", item.day);
   card.setAttribute("contestImg", item.img);
   card.setAttribute("contestTitle", item.title);
