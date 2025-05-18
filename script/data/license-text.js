@@ -55,7 +55,7 @@ export const licenseData = [
       "https://www.q-net.or.kr/man001.do?id=man00103&gSite=Q&gId=&redir=rcv202.do%3Fid%3Drcv20210%26gId%3D%26gSite%3DQ",
     licenseTag: "정보통신",
     endDate: "2025.07.21",
-    licenseName: "멀티미디어콘텐츠제작전문가 필기",
+    licenseName: "멀티 미디어 콘텐츠 제작전문가 필기",
     licenseSummary:
       "디지털화의 급속한 진전으로 기업, 기관 등에서 제공하는 콘텐츠들이 미디어를 통해 디지털콘텐츠로 제공됨에 따라 다양한 사용자의 요구에 맞도록 멀티미디어 콘텐츠를 제공할 수 있는 활용(기획, 디자인, 제작 등) 능력을 평가한다. ",
   },
